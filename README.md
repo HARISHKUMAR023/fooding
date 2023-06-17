@@ -1,5 +1,7 @@
 # Welcome to பசியின் குரல் (Paciyin kural) - Voice of Hunger!
 
+![children 1](https://github.com/HARISHKUMAR023/fooding/assets/88447060/15b7e270-d26a-4c59-b68a-ed0dfd71416a)
+
 At Paciyin kural, we believe that no one should go to bed hungry. We are a web application dedicated to addressing the
 issue of food waste and hunger by connecting those with excess food to those in need. Our platform serves as a bridge,
 enabling individuals, businesses, and organizations to make a positive impact in their communities.
